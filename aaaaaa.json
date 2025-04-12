@@ -1,6 +1,10 @@
 [
     {
         "name": "Hypercam",
-        "Callback": "loadstring(game:HttpGet("https://raw.githubusercontent.com/Kebabman52/aaaaa/refs/heads/main/aaa.lua?token=GHSAT0AAAAAADBWEVXM4THEMBZCUGV3E64MZ72WWOA"))()"
-    }
+        "Callback": "loadstring(game:HttpGet("AAAAAAAFFFFFFFFF"))()"
+    },
+    {
+        "name": "AAAAAA",
+        "Callback": "loadstring(game:HttpGet("AAAAAAAA"))()"
+    },
 ]
